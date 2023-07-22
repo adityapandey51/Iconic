@@ -18,7 +18,7 @@ const [toggle,setToggle]=useState(false)
           window.scrollTo(0,0);
         }}>
           <img src={Group} alt="logo" className='w-9 h-9 -mt-1 object-contain'/>
-          <p className='text-white text-[18px] font-bold cursor-pointer flex'>Iconic Solutions &nbsp;<span className='sm:block hidden'>|&nbsp;Digital Growth Providers</span></p>
+          <p className='text-white text-[18px] font-bold cursor-pointer flex'>Iconic Design &nbsp;<span className='sm:block hidden'>|&nbsp;Digital Growth Providers</span></p>
         </Link>
         <ul className='list-none hidden sm:flex flex-row gap-10'>
         {navLinks.map((Link)=>(<li
