@@ -115,7 +115,7 @@ const Contact = () => {
               className='bg-tertiary py-4 px-6 placeholder:text-secondary text-white rounded-lg outline-none border-none font-medium'
             />
           </label>
-          <h1 className="text-xl font-bold">Call me  :<span className="text-[#915eff] text-xl md:text-2xl font-extrabold">&nbsp;&nbsp;+91 9102048293</span></h1>
+          <h1 className="text-xl font-bold">Call me&nbsp;&nbsp;:<span className="text-[#915eff] text-xl md:text-2xl font-extrabold">&nbsp;&nbsp;+91 9102048293</span></h1>
 
           <button
             type='submit'
