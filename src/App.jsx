@@ -7,7 +7,7 @@ const App=()=>{
     <>
     <BrowserRouter>
        <div className="relative z-0 bg-primary">
-        <div className="bg-hero-pattern bg-cover bg-no-repeat bg-center">
+        <div style={{backgroundImage: `url(${'./src/assets/herobg.png'}`}} className="bg-cover bg-no-repeat bg-center">
           <Navbar/>
           <Hero/>
         </div>
