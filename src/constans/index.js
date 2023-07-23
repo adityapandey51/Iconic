@@ -4,15 +4,12 @@ import {
     creator,
     web,
     project,
-    javascript,
-    html,
-    css,
+   
     canva,
     reactjs,
     tailwind,
     nodejs,
-    mongodb,
-    git,
+    
     figma,
     threejs,
   } from "../assets";
@@ -52,18 +49,6 @@ import {
   ];
   
   const technologies = [
-    {
-      name: "HTML 5",
-      icon: html,
-    },
-    {
-      name: "CSS 3",
-      icon: css,
-    },
-    {
-      name: "JavaScript",
-      icon: javascript,
-    },
     
     {
       name: "React JS",
@@ -82,18 +67,12 @@ import {
       name: "Node JS",
       icon: nodejs,
     },
-    {
-      name: "MongoDB",
-      icon: mongodb,
-    },
+    
     {
       name: "Three JS",
       icon: threejs,
     },
-    {
-      name: "git",
-      icon: git,
-    },
+    
     {
       name: "figma",
       icon: figma,
@@ -109,7 +88,8 @@ import {
       designation: "Owner",
       company: "Diamond Beauty",
       image: "https://randomuser.me/api/portraits/women/4.jpg",
-    }
+    },
+
     
   ];
   
